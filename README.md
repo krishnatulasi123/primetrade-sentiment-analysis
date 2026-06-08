@@ -26,5 +26,5 @@ Analyze the relationship between Bitcoin Fear & Greed sentiment and trader perfo
 - Pandas
 - NumPy
 - Matplotlib
-
-## Repository Structure
+- Jupyter Notebook
+  
